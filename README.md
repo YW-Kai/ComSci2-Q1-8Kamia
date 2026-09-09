@@ -7,5 +7,9 @@ Just enter a number and the code checks if it's even or not.
 I forgot why
 ## Why did you forget why?
 I don't know either
+## How does the code work?
+It checks the number if it's divisible by 2 and if it isn't then it's odd. 
+## Why does it work?
+...alright too many questions
 
 made by Julian Dane Y. Ruiz
